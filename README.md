@@ -123,6 +123,17 @@ This repository showcases my **progressive growth in software engineering and te
 - Managing **complex selection criteria** without joins (when restricted).
 
 ---
+### 🧮 SQL 2 — Set Operations & Relational Logic
+
+What I did:  
+- Practiced UNION, INTERSECT, and EXCEPT with and without ALL.  
+- Built multi-table queries using JOIN, NATURAL JOIN, subqueries, IN, and EXISTS.  
+- Compared relational approaches and optimized query readability.
+
+What I learned:  
+- Core principles of set theory and relational logic in SQL.  
+- When to apply JOIN vs IN vs EXISTS.  
+- Improved query structuring and analytical precision.
 
 ##  Tech Stack
 
