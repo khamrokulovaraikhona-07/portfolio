@@ -142,18 +142,18 @@ What I learned:
 
 What I Did:
 
-Worked with advanced JOIN operations (LEFT, RIGHT, FULL, NATURAL).
-Implemented Common Table Expressions (CTEs) for structured queries.
-Handled NULL values and data gaps using SQL logic.
-Built queries using relational algebra concepts and filtering conditions.
-Analyzed datasets to extract insights (e.g., favorite pizzas, user behavior).
+- Worked with advanced JOIN operations (LEFT, RIGHT, FULL, NATURAL).
+- Implemented Common Table Expressions (CTEs) for structured queries.
+- Handled NULL values and data gaps using SQL logic.
+- Built queries using relational algebra concepts and filtering conditions.
+- Analyzed datasets to extract insights (e.g., favorite pizzas, user behavior).
 
 What I Learned:
 
-Deep understanding of JOIN mechanics and relational algebra.
-Writing cleaner queries using CTEs for readability and optimization.
-Managing missing data and NULL handling effectively.
-Applying SQL for real-world analytical scenarios and decision-making.
+- Deep understanding of JOIN mechanics and relational algebra.
+- Writing cleaner queries using CTEs for readability and optimization.
+- Managing missing data and NULL handling effectively.
+- Applying SQL for real-world analytical scenarios and decision-making.
 
 ---
 
@@ -161,18 +161,18 @@ Applying SQL for real-world analytical scenarios and decision-making.
 
 What I Did:
 
-Performed data modification operations (INSERT, UPDATE, DELETE).
-Built complex queries combining JOINs with DML statements.
-Implemented dynamic inserts using subqueries (no hardcoded IDs).
-Analyzed user behavior (visits vs orders) and compared datasets.
+- Performed data modification operations (INSERT, UPDATE, DELETE).
+- Built complex queries combining JOINs with DML statements.
+- Implemented dynamic inserts using subqueries (no hardcoded IDs).
+- Analyzed user behavior (visits vs orders) and compared datasets.
 Managed database state by adding, updating, and removing records.
 
 What I Learned:
 
-Understanding how DML operations work internally (UPDATE = DELETE + INSERT).
-Writing efficient INSERT…SELECT and dynamic queries.
-Maintaining data integrity and consistency during updates.
-Applying SQL in real-world scenarios like transactions and analytics.
+- Understanding how DML operations work internally (UPDATE = DELETE + INSERT).
+- Writing efficient INSERT…SELECT and dynamic queries.
+- Maintaining data integrity and consistency during updates.
+- Applying SQL in real-world scenarios like transactions and analytics.
 
 ---
 
