@@ -124,7 +124,7 @@ This repository showcases my **progressive growth in software engineering and te
 
 ---
 
-### 🧮 SQL 2 — Set Operations & Relational Logic
+### 8. 🧮 SQL 2 — Set Operations & Relational Logic
 
 What I did:  
 - Practiced UNION, INTERSECT, and EXCEPT with and without ALL.  
@@ -138,7 +138,7 @@ What I learned:
 
 ---
 
-SQLB3 — Advanced Data Retrieval & JOINs
+### 9. SQLB3 — Advanced Data Retrieval & JOINs
 
 What I Did:
 
@@ -157,7 +157,7 @@ Applying SQL for real-world analytical scenarios and decision-making.
 
 ---
 
-SQLB4 — Data Manipulation (DML)
+### 10. SQLB4 — Data Manipulation (DML)
 
 What I Did:
 
