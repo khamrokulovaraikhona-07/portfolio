@@ -124,6 +124,58 @@ This repository showcases my **progressive growth in software engineering and te
 
 ---
 
+### 🧮 SQL 2 — Set Operations & Relational Logic
+
+What I did:  
+- Practiced UNION, INTERSECT, and EXCEPT with and without ALL.  
+- Built multi-table queries using JOIN, NATURAL JOIN, subqueries, IN, and EXISTS.  
+- Compared relational approaches and optimized query readability.
+
+What I learned:  
+- Core principles of set theory and relational logic in SQL.  
+- When to apply JOIN vs IN vs EXISTS.  
+- Improved query structuring and analytical precision.
+
+---
+
+SQLB3 — Advanced Data Retrieval & JOINs
+
+What I Did:
+
+Worked with advanced JOIN operations (LEFT, RIGHT, FULL, NATURAL).
+Implemented Common Table Expressions (CTEs) for structured queries.
+Handled NULL values and data gaps using SQL logic.
+Built queries using relational algebra concepts and filtering conditions.
+Analyzed datasets to extract insights (e.g., favorite pizzas, user behavior).
+
+What I Learned:
+
+Deep understanding of JOIN mechanics and relational algebra.
+Writing cleaner queries using CTEs for readability and optimization.
+Managing missing data and NULL handling effectively.
+Applying SQL for real-world analytical scenarios and decision-making.
+
+---
+
+SQLB4 — Data Manipulation (DML)
+
+What I Did:
+
+Performed data modification operations (INSERT, UPDATE, DELETE).
+Built complex queries combining JOINs with DML statements.
+Implemented dynamic inserts using subqueries (no hardcoded IDs).
+Analyzed user behavior (visits vs orders) and compared datasets.
+Managed database state by adding, updating, and removing records.
+
+What I Learned:
+
+Understanding how DML operations work internally (UPDATE = DELETE + INSERT).
+Writing efficient INSERT…SELECT and dynamic queries.
+Maintaining data integrity and consistency during updates.
+Applying SQL in real-world scenarios like transactions and analytics.
+
+---
+
 ##  Tech Stack
 
 - **Languages & Tools:** C, SQL, Markdown  
